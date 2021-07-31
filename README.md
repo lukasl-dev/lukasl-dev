@@ -12,3 +12,7 @@
     height="170"
   />
 </div>
+
+<a href="https://github.com/Platane/snk">
+  <img src="dist/github-snake.svg" />
+</a>
