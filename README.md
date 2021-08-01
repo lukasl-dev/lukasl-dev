@@ -14,5 +14,5 @@
 </div>
 
 <a href="https://github.com/Platane/snk">
-  <img src="dist/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/lukasl-dev/lukasl-dev/output/github-contribution-grid-snake.svg" />
 </a>
