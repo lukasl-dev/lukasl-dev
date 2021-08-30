@@ -6,6 +6,12 @@
       src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=lukasl-dev.lukasl-dev&logo=github&style=for-the-badge&text=Views"
     />
   </a>
+  <img
+    src="https://img.shields.io/github/followers/lukasl-dev?logo=github&style=for-the-badge"
+  />
+  <img
+    src="https://img.shields.io/github/stars/lukasl-dev?affiliations=COLLABORATOR&logo=github&style=for-the-badge"
+  />
 </div>
 
 <br>
