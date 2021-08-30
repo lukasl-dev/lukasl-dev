@@ -1,4 +1,12 @@
-# Hi there 👋
+# 👋 Hey there, I'm Lukas
+
+<div align="center">
+  <a href="https://github.com/Nathan13888/VisitorBadgeReloaded">
+    <img
+      src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=lukasl-dev.lukasl-dev&logo=github&style=for-the-badge"
+    />
+  </a>
+</div>
 
 <br>
 
