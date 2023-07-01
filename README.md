@@ -11,10 +11,19 @@ I'm a Computer Science student at a higher technical college in Vienna, Austria 
 <br />
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasl-dev&layout=donut-vertical&theme=graywhite"
-  />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasl-dev&layout=donut-vertical&theme=nord#gh-dark-mode-only?show_icons=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasl-dev&layout=donut-vertical&theme=graywhite"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasl-dev&layout=donut-vertical"
+    />
+  </picture>
 </div>
-
 
 [![Snake Heatmap](https://raw.githubusercontent.com/lukasl-dev/lukasl-dev/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
