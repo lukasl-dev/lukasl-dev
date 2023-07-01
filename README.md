@@ -13,11 +13,11 @@ I'm a Computer Science student at a higher technical college in Vienna, Austria 
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasl-dev&layout=donut-vertical&theme=nord#gh-dark-mode-only?show_icons=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasl-dev&layout=donut-vertical&theme=nord?show_icons=true&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasl-dev&layout=donut-vertical&theme=graywhite"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasl-dev&layout=donut-vertical&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
