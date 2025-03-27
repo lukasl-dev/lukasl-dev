@@ -21,9 +21,19 @@
 
 <div align="center">
 
-| Project | Description | Tech |
-| --- | --- | --- |
+| Project                                        | Description                                                                          | Tech                                                                                                                                    |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
 | [evochi](https://github.com/neuro-soup/evochi) | A distributed training orchestrator inspired by OpenAI's Evolution Strategies paper. | ![Go](https://img.shields.io/badge/Go-00acd7?logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-orange?logo=python) |
+
+</div>
+
+<h4 align="center">Miscellaneous</h4>
+
+<div align="center">
+
+| Project                                      | Description                              | Tech                                            |
+| -------------------------------------------- | ---------------------------------------- | ----------------------------------------------- |
+| [nixos](https://github.com/lukasl-dev/nixos) | My NixOS configuration for all my hosts. | ![Nix](https://img.shields.io/badge/Nix-6c9cbc) |
 
 </div>
 
@@ -34,4 +44,3 @@
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lukasl-dev/lukasl-dev/output/github-contribution-grid-snake.svg">
     </picture>
 </div>
-
