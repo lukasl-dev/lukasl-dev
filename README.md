@@ -4,7 +4,7 @@
 
 <h4 align="center">I'm interested in</h4>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&weight=600&pause=1000&color=CBA6F7&center=true&height=20&vCenter=true&random=true&lines=Artificial+Intelligence;Lower-level+Programming;Theoretical+Computer+Science;Self-assembling+Systems;Cats+(who+isn't);Mathematics;Compilers" alt="Typing SVG" style="width: 100%; display: block; margin: 0 auto;" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&weight=600&pause=1000&color=CBA6F7&center=true&height=20&vCenter=true&random=true&lines=Artificial+Intelligence;Lower-level+Programming;Theoretical+Computer+Science;Emergent+Systems;Cats+(who+isn't);Mathematics;Compilers" alt="Typing SVG" style="width: 100%; display: block; margin: 0 auto;" /></a>
 
 <h4 align="center">My Favourite Projects</h4>
 
