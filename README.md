@@ -14,6 +14,7 @@
 | ---------------------------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
 | [evochi](https://github.com/neuro-soup/evochi) | A distributed training orchestrator inspired by OpenAI's Evolution Strategies paper. | ![Go](https://img.shields.io/badge/Go-00acd7?logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-orange?logo=python) |
 | [rime](https://github.com/lukasl-dev/rime) | An MCP server for NixOS users. | ![Rust](https://img.shields.io/badge/Rust-ce412b?logo=rust&logoColor=white) ![Nix](https://img.shields.io/badge/Nix-6c9cbc?logo=nixos&logoColor=white) |
+| [pi.nix](https://github.com/lukasl-dev/pi.nix) | Nix flake for [pi, a terminal coding agent](https://github.com/earendil-works/pi). | ![Nix](https://img.shields.io/badge/Nix-6c9cbc?logo=nixos&logoColor=white) |
 
 </div>
 
